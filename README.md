@@ -9,7 +9,7 @@ Apasionada por crear soluciones tecnológicas que generen **valor real** ⭐
 ## 🌸 Sobre mí
 
 Soy una **informática biomédica** con más de **4 años de experiencia** en desarrollo web, sistemas de información y actualmente especializandome en **Machine Learning**.  
-Mi trayectoria incluye roles como **Encargada del Departamento de Informática** y **Analista de Requerimientos** en el sector salud.
+Mi trayectoria incluye roles como **Encargada de Departamento de Informática** y **Analista de Requerimientos y Datos** en el sector salud.
 
 Me especializo en desarrollo **Fullstack con Python y Django**, además del uso de tecnologías modernas para la creación de soluciones escalables y con foco en UX/UI.
 
